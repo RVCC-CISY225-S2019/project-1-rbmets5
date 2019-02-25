@@ -1,5 +1,5 @@
 body {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: sans-serif;
   margin: 0;
 
 }
@@ -18,24 +18,6 @@ body {
   background-color: #F3F3F3;
   height: 3.5em;
   padding: 1em;
-}
-
-.footer {
-  /*height: 25vw;*/
-  /*max-height: 150px;*/
-  /*width: 100%;*/
-  background-color: #E52528;
-  height: 10em;
-  padding: 1em;
-}
-
-.copyright {
-     color: white;
-  font-size: 1.1rem;
-  font-weight: 600;
-  text-align: center;
-  margin-bottom: 0;
-    line-height: 7;
 }
 
 img.logo {
@@ -78,7 +60,7 @@ img.logo {
 .hero {
   padding: 4em;
   max-width: 100%;
-  background-color: #E52528;
+  background-color: #294860;
   color: white;
 }
 
@@ -94,7 +76,7 @@ img.my-picture {
 
 .iama {
   max-width: 100%;
-  color: #E52528;
+  color: #294860;
   font-size: 1.1em;
   font-style: italic;
 }
@@ -134,8 +116,4 @@ img.my-picture {
 .about-content {
     border-left: 1px solid #DFEAF1;
     padding-left: 3rem;
-}
-
-.pix {
-    max-width: 100%;
 }
